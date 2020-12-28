@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-01-config-autoconfig/spring-boot-01-config-autoconfig.iml" filepath="$PROJECT_DIR$/spring-boot-01-config-autoconfig/spring-boot-01-config-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-02-logging/spring-boot-02-logging.iml" filepath="$PROJECT_DIR$/spring-boot-02-logging/spring-boot-02-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-01-config-autoconfig/spring-boot-03-logging.iml" filepath="$PROJECT_DIR$/spring-boot-01-config-autoconfig/spring-boot-03-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-03-web-restfulcrud/spring-boot-03-web-restfulcrud.iml" filepath="$PROJECT_DIR$/spring-boot-03-web-restfulcrud/spring-boot-03-web-restfulcrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-04-web-jsp/spring-boot-04-web-jsp.iml" filepath="$PROJECT_DIR$/spring-boot-04-web-jsp/spring-boot-04-web-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-jdbc/spring-boot-06-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-jdbc/spring-boot-06-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-quickly.iml" filepath="$PROJECT_DIR$/spring-boot-quickly.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,349 @@
+2020-12-24 09:15:05.675  INFO 1320 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 1320 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 09:15:05.780 DEBUG 1320 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 09:15:05.781  INFO 1320 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:15:08.706  INFO 1320 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:15:08.729  INFO 1320 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:15:08.731  INFO 1320 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:15:08.734  INFO 1320 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 09:15:08.735  INFO 1320 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 09:15:08.735  INFO 1320 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 09:15:08.771  INFO 1320 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 09:15:09.071  INFO 1320 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:15:09.072  INFO 1320 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3081 ms
+2020-12-24 09:15:09.576  INFO 1320 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:15:10.134  INFO 1320 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:15:10.161  INFO 1320 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 6.37 seconds (JVM running for 15.263)
+2020-12-24 09:15:44.524  INFO 1320 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 09:15:44.524  INFO 1320 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 09:15:44.525  INFO 1320 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2020-12-24 09:25:16.350  INFO 2976 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 2976 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 09:25:16.357 DEBUG 2976 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 09:25:16.360  INFO 2976 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:25:20.773  INFO 2976 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:25:20.794  INFO 2976 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:25:20.797  INFO 2976 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:25:20.801  INFO 2976 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 09:25:20.801  INFO 2976 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 09:25:20.801  INFO 2976 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 09:25:20.837  INFO 2976 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 09:25:21.070  INFO 2976 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:25:21.071  INFO 2976 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4433 ms
+2020-12-24 09:25:21.697  INFO 2976 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:25:22.542  INFO 2976 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:25:22.572  INFO 2976 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 8.278 seconds (JVM running for 13.607)
+2020-12-24 09:25:36.723  INFO 2976 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 09:25:36.724  INFO 2976 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 09:25:36.725  INFO 2976 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2020-12-24 09:33:29.845  INFO 19828 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 19828 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 09:33:29.856 DEBUG 19828 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 09:33:29.858  INFO 19828 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:33:32.353  INFO 19828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:33:32.384  INFO 19828 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:33:32.384  INFO 19828 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:33:32.393  INFO 19828 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 09:33:32.393  INFO 19828 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 09:33:32.394  INFO 19828 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 09:33:32.411  INFO 19828 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 09:33:32.706  INFO 19828 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:33:32.706  INFO 19828 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2678 ms
+2020-12-24 09:33:33.236  INFO 19828 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:33:33.669  INFO 19828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:33:33.692  INFO 19828 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 5.008 seconds (JVM running for 8.887)
+2020-12-24 09:33:36.898  INFO 19828 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 09:33:36.898  INFO 19828 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 09:33:36.900  INFO 19828 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2020-12-24 09:33:37.512 ERROR 19828 --- [http-nio-8080-exec-1] org.thymeleaf.TemplateEngine             : [THYMELEAF][http-nio-8080-exec-1] Exception processing template "success": Could not parse as expression: "<h1>${ hello }</h1>" (template: "success" - line 10, col 76)
+
+org.thymeleaf.exceptions.TemplateProcessingException: Could not parse as expression: "<h1>${ hello }</h1>" (template: "success" - line 10, col 76)
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:131) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:62) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:44) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.parseAttributeExpression(EngineEventUtils.java:220) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.computeAttributeExpression(EngineEventUtils.java:207) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardExpressionAttributeTagProcessor.doProcess(AbstractStandardExpressionAttributeTagProcessor.java:125) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) [thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) [thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:366) [thymeleaf-spring5-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:190) [thymeleaf-spring5-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1394) [spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1139) [spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1078) [spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961) [spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) [spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) [tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) [spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) [spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) [spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_271]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_271]
+
+2020-12-24 09:33:37.516 ERROR 19828 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateProcessingException: Could not parse as expression: "<h1>${ hello }</h1>" (template: "success" - line 10, col 76)] with root cause
+
+org.thymeleaf.exceptions.TemplateProcessingException: Could not parse as expression: "<h1>${ hello }</h1>" (template: "success" - line 10, col 76)
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:131) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:62) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:44) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.parseAttributeExpression(EngineEventUtils.java:220) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.computeAttributeExpression(EngineEventUtils.java:207) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardExpressionAttributeTagProcessor.doProcess(AbstractStandardExpressionAttributeTagProcessor.java:125) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:366) ~[thymeleaf-spring5-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:190) ~[thymeleaf-spring5-3.0.12.RELEASE.jar:3.0.12.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1394) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1139) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1078) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_271]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_271]
+
+2020-12-24 09:34:18.212  INFO 34552 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 34552 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 09:34:18.217 DEBUG 34552 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 09:34:18.218  INFO 34552 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:34:20.906  INFO 34552 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:34:21.014  INFO 34552 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:34:21.014  INFO 34552 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:34:21.020  INFO 34552 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 09:34:21.020  INFO 34552 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 09:34:21.020  INFO 34552 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 09:34:21.098  INFO 34552 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 09:34:21.408  INFO 34552 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:34:21.408  INFO 34552 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3024 ms
+2020-12-24 09:34:22.062  INFO 34552 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:34:22.454  INFO 34552 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:34:22.470  INFO 34552 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 6.413 seconds (JVM running for 8.499)
+2020-12-24 09:44:36.602  INFO 3572 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 3572 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 09:44:36.606 DEBUG 3572 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 09:44:36.607  INFO 3572 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:44:39.071  INFO 3572 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:44:39.088  INFO 3572 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:44:39.089  INFO 3572 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:44:39.091  INFO 3572 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 09:44:39.103  INFO 3572 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 09:44:39.103  INFO 3572 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 09:44:39.115  INFO 3572 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 09:44:39.437  INFO 3572 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:44:39.438  INFO 3572 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2730 ms
+2020-12-24 09:44:41.831  INFO 3572 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:44:42.577  INFO 3572 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:44:42.604  INFO 3572 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 7.519 seconds (JVM running for 11.343)
+2020-12-24 09:44:48.137  INFO 3572 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 09:44:48.137  INFO 3572 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 09:44:48.138  INFO 3572 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2020-12-24 09:47:00.495  INFO 30624 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 30624 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 09:47:00.498 DEBUG 30624 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 09:47:00.498  INFO 30624 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:47:02.866  INFO 30624 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:47:02.897  INFO 30624 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:47:02.897  INFO 30624 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:47:02.901  INFO 30624 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 09:47:02.901  INFO 30624 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 09:47:02.910  INFO 30624 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 09:47:02.916  INFO 30624 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 09:47:03.139  INFO 30624 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:47:03.139  INFO 30624 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2491 ms
+2020-12-24 09:47:03.532  INFO 30624 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:47:03.880  INFO 30624 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:47:03.896  INFO 30624 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 4.752 seconds (JVM running for 7.765)
+2020-12-24 09:47:29.159  INFO 30624 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 09:47:29.160  INFO 30624 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 09:47:29.161  INFO 30624 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2020-12-24 09:48:13.960  INFO 20776 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 20776 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 09:48:13.965 DEBUG 20776 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 09:48:13.968  INFO 20776 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:48:16.792  INFO 20776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:48:16.827  INFO 20776 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:48:16.828  INFO 20776 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:48:16.832  INFO 20776 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 09:48:16.833  INFO 20776 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 09:48:16.834  INFO 20776 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 09:48:16.840  INFO 20776 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 09:48:17.046  INFO 20776 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:48:17.046  INFO 20776 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2956 ms
+2020-12-24 09:48:17.376  INFO 20776 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:48:17.929  INFO 20776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:48:17.983  INFO 20776 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 5.746 seconds (JVM running for 8.021)
+2020-12-24 09:48:23.399  INFO 20776 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 09:48:23.400  INFO 20776 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 09:48:23.401  INFO 20776 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2020-12-24 09:58:09.995  INFO 1988 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 1988 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 09:58:10.042 DEBUG 1988 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 09:58:10.043  INFO 1988 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:58:18.766  INFO 1988 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:58:18.820  INFO 1988 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:58:18.820  INFO 1988 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:58:18.832  INFO 1988 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 09:58:18.832  INFO 1988 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 09:58:18.833  INFO 1988 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 09:58:18.864  INFO 1988 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 09:58:19.314  INFO 1988 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:58:19.314  INFO 1988 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 8937 ms
+2020-12-24 09:58:21.071  INFO 1988 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:58:22.320  INFO 1988 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:58:22.362  INFO 1988 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 14.397 seconds (JVM running for 22.704)
+2020-12-24 09:58:31.023  INFO 1988 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 09:58:31.023  INFO 1988 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 09:58:31.025  INFO 1988 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2020-12-24 10:01:14.162  INFO 1988 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:01:44.740  INFO 11052 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 11052 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 10:01:44.748 DEBUG 11052 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 10:01:44.749  INFO 11052 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 10:01:50.928  INFO 11052 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 10:01:51.361  INFO 11052 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 6095 ms
+2020-12-24 10:01:52.057  INFO 11052 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:01:52.650  INFO 11052 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 10:01:52.679  INFO 11052 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 11.833 seconds (JVM running for 15.581)
+2020-12-24 10:01:53.165  INFO 11052 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:02:07.334  INFO 3220 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 3220 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 10:02:07.341 DEBUG 3220 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 10:02:07.343  INFO 3220 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 10:02:13.294  INFO 3220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 10:02:13.334  INFO 3220 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 10:02:13.336  INFO 3220 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 10:02:13.347  INFO 3220 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 10:02:13.347  INFO 3220 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 10:02:13.348  INFO 3220 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 10:02:13.355  INFO 3220 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 10:02:13.687  INFO 3220 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 10:02:13.688  INFO 3220 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 6108 ms
+2020-12-24 10:02:14.529  INFO 3220 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:02:16.037  INFO 3220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 10:02:16.195  INFO 3220 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 11.757 seconds (JVM running for 15.255)
+2020-12-24 10:02:48.253  INFO 3220 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:03:00.554  INFO 28752 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 28752 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 10:03:00.594 DEBUG 28752 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 10:03:00.596  INFO 28752 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 10:03:07.694  INFO 28752 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 10:03:07.857  INFO 28752 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 10:03:07.858  INFO 28752 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 10:03:07.878  INFO 28752 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 10:03:07.878  INFO 28752 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 10:03:07.878  INFO 28752 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 10:03:07.897  INFO 28752 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 10:03:08.245  INFO 28752 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 10:03:08.245  INFO 28752 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 7008 ms
+2020-12-24 10:03:10.938  INFO 28752 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:03:13.662  INFO 28752 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 10:03:13.711  INFO 28752 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 16.371 seconds (JVM running for 20.22)
+2020-12-24 10:03:26.397  INFO 28752 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 10:03:26.398  INFO 28752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 10:03:26.399  INFO 28752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2020-12-24 10:10:59.589  INFO 28752 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:50:12.586  INFO 7460 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 7460 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 10:50:12.592 DEBUG 7460 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 10:50:12.593  INFO 7460 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 10:50:15.903  INFO 7460 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 10:50:15.928  INFO 7460 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 10:50:15.929  INFO 7460 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 10:50:15.932  INFO 7460 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 10:50:15.933  INFO 7460 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 10:50:15.934  INFO 7460 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 10:50:15.961  INFO 7460 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 10:50:16.872  INFO 7460 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 10:50:16.875  INFO 7460 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3886 ms
+2020-12-24 10:50:17.239  INFO 7460 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:50:17.649  INFO 7460 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 10:50:17.668  INFO 7460 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 6.753 seconds (JVM running for 9.584)
+2020-12-24 10:50:21.875  INFO 7460 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 10:50:21.876  INFO 7460 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 10:50:21.878  INFO 7460 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2020-12-24 10:51:06.293  INFO 33240 --- [main] c.h.s.SpringBoot02LoggingApplication     : Starting SpringBoot02LoggingApplication using Java 1.8.0_271 on DESKTOP-5IIVMG0 with PID 33240 (D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly\spring-boot-02-logging\target\classes started by 37903 in D:\Data\MyPublicWeb\Java\Idea\JavaSeData\spring-boot-quickly)
+2020-12-24 10:51:06.300 DEBUG 33240 --- [main] c.h.s.SpringBoot02LoggingApplication     : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 10:51:06.301  INFO 33240 --- [main] c.h.s.SpringBoot02LoggingApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 10:51:08.499  INFO 33240 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 10:51:08.526  INFO 33240 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 10:51:08.526  INFO 33240 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 10:51:08.532  INFO 33240 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-12-24 10:51:08.532  INFO 33240 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-12-24 10:51:08.533  INFO 33240 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-12-24 10:51:08.539  INFO 33240 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-12-24 10:51:08.808  INFO 33240 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 10:51:08.813  INFO 33240 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2302 ms
+2020-12-24 10:51:10.191  INFO 33240 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:51:10.348  INFO 33240 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2020-12-24 10:51:10.674  INFO 33240 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 10:51:10.694  INFO 33240 --- [main] c.h.s.SpringBoot02LoggingApplication     : Started SpringBoot02LoggingApplication in 5.855 seconds (JVM running for 9.58)
+2020-12-24 10:52:06.722  INFO 33240 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 10:52:06.723  INFO 33240 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 10:52:06.724  INFO 33240 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
